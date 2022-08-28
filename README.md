@@ -6,6 +6,8 @@
 
 ## [Github Repository](https://github.com/matthewngc/MatthewNg_T1A2)
 
+## [Github Repository (Source)](https://github.com/matthewngc/MatthewNg_T1A2_Source)
+
 ---
 
 ## Purpose
@@ -16,7 +18,7 @@ The purpose of this portfolio website is to provide prospective employers with a
 
 The portfolio website takes a minimalistic approach to displaying information on a webpage, with each page following a similar theme and structure. The website is easy to navigate, semantically appropriate and professionally styled.
 
-The portfolio website navigates through four different pages:
+The portfolio website navigates through four different main pages:
 
 - A landing page with a digital business card styled container showing my basic personal information, e.g. name, professional photo, contact information, etc.
 - An "About Me" page detailing information on my professional and education background, along with my hobbies and interests
