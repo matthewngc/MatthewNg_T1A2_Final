@@ -8,6 +8,8 @@
 
 ## [Github Repository (Source)](https://github.com/matthewngc/MatthewNg_T1A2_Source)
 
+## [Video Presentation](https://youtu.be/nPdnlx5GYpU)
+
 ---
 
 ## Purpose
